@@ -404,7 +404,6 @@ section h2 {
   margin: 0 auto;
   color: #811b9a;
   font-size: 60px;
-  font-family: "Exo", sans-serif;
   font-weight: 600;
   text-align: center;
   text-transform: uppercase;
@@ -595,7 +594,6 @@ section h2 {
 #introduction .intro-content .name {
   display: block;
   text-transform: ;
-  font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 2em;
   font-weight: 700;
   text-align: center;
@@ -833,7 +831,6 @@ opacity:0.1;
 position:absolute;
 -webkit-filter: blur(1px);
 font-size:35px;
-font-family:'Courier new', fixed;
 font-weight:bold;
 }
 .buzz_wrapper span:nth-child(1){
@@ -945,7 +942,6 @@ opacity:0.1;
 position:absolute;
 -webkit-filter: blur(1px);
 font-size:35px;
-font-family:'Courier new', fixed;
 font-weight:bold;
 }
 .buzzz_wrapper span:nth-child(1){
@@ -1108,7 +1104,6 @@ margin-top: -10px;
 
 #container .effect-text-container h1
 {
-font-family: "Open Sans";
 font-weight: 900;
 font-size: 15px;
 letter-spacing: 5px;
@@ -1464,7 +1459,6 @@ video {
 
 }
 .progress .skill {
-  font: normal 12px "Open Sans Web";
   line-height: 35px;
   padding: 0;
   margin: 0 0 0 20px;
@@ -1508,4 +1502,5 @@ video {
 
 #contact p {
   text-align: center;
+  color: #fff;
 }
