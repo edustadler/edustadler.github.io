@@ -1424,6 +1424,7 @@ footer {
   min-height: 385px;
   max-height: 585px;
   padding: 27px 15px;
+  overflow: hidden;
   margin-bottom: 10px;
   background-color: #fff;
   box-shadow: 1px 1px 1px #000;
